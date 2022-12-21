@@ -19,17 +19,17 @@ Adding dynamic content to web pages Validating forms Creating interactive elemen
 
 To add JavaScript to a web page, you can include it directly in the HTML code using a script tag. For example:
 
-  console.log("Hello, world!");
-  </script>
+  ## console.log("Hello, world!");
+  ## </script>
 You can also include JavaScript code from an external file by specifying the file's location in the src attribute of the script tag.
 
-<script src="main.js"></script>
+## <script src="main.js"></script>
 JavaScript uses a syntax similar to C-style languages, with curly braces to denote blocks of code and semicolons to separate statements.
 
 Here is a simple example of a function in JavaScript:
 
-  console.log("Hello, " + name + "!");
-} ```
+##  console.log("Hello, " + name + "!");
+## } ```
 
 ### greet("John"); // prints "Hello, John!"
 
