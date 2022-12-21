@@ -1,4 +1,4 @@
-##Welcome to the ALX SE JavaScript Advanced Concepts !
+## Welcome to the ALX SE JavaScript Advanced Concepts !
 This project is designed to help me deepen my understanding of JavaScript and explore some of the more advanced features of the language.
 
 In this project, you will learn about concepts such as:
